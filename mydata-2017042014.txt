@@ -3,3 +3,4 @@ student id : 2017042014
 department : wood and science
 grade : 3
 course : open source
+good phrase of the day : linux very hard
