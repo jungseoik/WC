@@ -1,0 +1,5 @@
+name : jung seo ik
+student id : 2017042014
+department : wood and science
+grade : 3
+course : open source
